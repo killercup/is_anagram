@@ -2,6 +2,12 @@
 authors = ["Pascal Hertleif <killercup@gmail.com>"]
 name = "is_anagram"
 version = "0.1.0"
+description = "A clever way to find anagrams. (English letters only for now, sorry!)"
+license = "MIT/Apache-2.0"
+documentation = "https://docs.rs/is_anagram"
+repository = "https://github.com/killercup/is_anagram"
+readme = "README.md"
+keywords = ["strings", "anagram"]
 
 [dependencies]
 ascii = "0.8.4"

@@ -2,6 +2,10 @@
 
 A quick thing I threw together after seeing [this tweet](https://twitter.com/fermatslibrary/status/875340896379817984).
 
+[![Build Status](https://travis-ci.org/killercup/is_anagram.svg?branch=master)](https://travis-ci.org/killercup/is_anagram)
+
+[**Documentation**](https://docs.rs/is_anagram/)
+
 ## What it does
 
 ```rust
